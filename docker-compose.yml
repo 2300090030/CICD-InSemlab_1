@@ -35,4 +35,5 @@ services:
       - backend
 
 volumes:
-  mysql_data:
+  mysql_data:git remote add origin https://github.com/2300090030/CICD-InSemlab_1.git
+
